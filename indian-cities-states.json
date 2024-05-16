@@ -6103,5 +6103,26 @@
       "id":"1221",
        "name":"Dispur",
        "state":"Assam"
-    }
+    },
+    {
+      "id":"1222",
+       "name":"Gangtok",
+       "state":"Sikkim"
+    },
+    {
+        "id":"1223",
+       "name":"Kavaratti‎",
+       "state":"Lakshadweep"
+    },
+    {
+       "id":"1224",
+       "name":"Daman‎",
+       "state":"Daman and Diu"
+    },
+    {
+       "id":"1225",
+       "name":"Diu‎",
+       "state":"Daman and Diu"
+    },
+
 ]
